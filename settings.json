@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "FatexSMP.aternos.me:26507",
+    "port": 26507,
     "version": "1.19.3"
   },
 
